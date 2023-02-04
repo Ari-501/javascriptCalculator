@@ -1,4 +1,4 @@
-Front End Development Libraries - Build a JavaScript Calculator
+# Front End Development Libraries - Build a JavaScript Calculator
 
 Solution Link (live link): https://arig501.github.io/javascriptCalculator/
 
