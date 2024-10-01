@@ -1,6 +1,6 @@
 # Front End Development Libraries - Build a JavaScript Calculator
 
-Solution Link (live link): https://arig501.github.io/javascriptCalculator/
+Solution Link (live link): https://ari-501.github.io/javascriptCalculator/
 
 Objective: Build an app that is functionally similar to this: https://javascript-calculator.freecodecamp.rocks/.
 
